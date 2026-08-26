@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi! I'm Ayden
+I'm an undergraduate student pursuing an Electronics Engineering degree at the Technological University of the Philippines - Manila.
 
+My interest include Robotics, Audio Signal Processing devices, Machine Learning, and PCB design. 
+
+Most of my projects are related to research, web development, or robotics; If not, its probably coursework.
+
+Fun fact: I'm a big Spurs Fan, GSG! 
 <!--
 **toastedsiopaolover29/toastedsiopaolover29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

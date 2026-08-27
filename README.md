@@ -3,7 +3,7 @@ I'm an undergraduate student pursuing an Electronics Engineering degree at the T
 
 My interest include Robotics, Audio Signal Processing devices, Machine Learning, and PCB design. 
 
-Most of my projects are related to research, web development, or robotics; If not, its probably coursework.
+Most of my projects are related to research, web development, or robotics; If not, its probably coursework or personal projects.
 
 Fun fact: I'm a big Spurs Fan, GSG! 
 <!--

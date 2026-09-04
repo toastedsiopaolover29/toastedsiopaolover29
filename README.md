@@ -1,11 +1,13 @@
 ## Hi! I'm Ayden
+###### This is a new Github Account
 I'm an undergraduate student pursuing an Electronics Engineering degree at the Technological University of the Philippines - Manila.
 
 My interest include Robotics, Audio Signal Processing devices, Machine Learning, and PCB design. 
 
-Most of my projects are related to research, web development, or robotics; If not, its probably coursework or personal projects.
+Most of my projects will be related to research, web development, or robotics; If not, its probably coursework or personal projects.
 
-Fun fact: I'm a big Spurs Fan, GSG! 
+🏀Fun fact: I'm a big Spurs Fan, GSG! 
+⚙️I'm currently learning basic PCB design via Altium
 <!--
 **toastedsiopaolover29/toastedsiopaolover29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

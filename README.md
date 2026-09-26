@@ -9,6 +9,13 @@ Most of my projects will be related to research, web development, or robotics; I
 🏀Fun fact: I'm a big Spurs Fan, GSG! 
 
 ⚙️I'm currently learning basic PCB design via Altium
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <!--
 **toastedsiopaolover29/toastedsiopaolover29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

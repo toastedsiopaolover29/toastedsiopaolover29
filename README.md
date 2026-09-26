@@ -9,6 +9,7 @@ Most of my projects will be related to research, web development, or robotics; I
 🏀Fun fact: I'm a big Spurs Fan, GSG! 
 
 ⚙️I'm currently learning basic PCB design via Altium
+
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
